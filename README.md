@@ -1,2 +1,2 @@
-# knives.rip-layout
-Bio layout for knives.rip
+# Bio layout for https://knives.rip/
+
